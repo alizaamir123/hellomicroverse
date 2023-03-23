@@ -1,58 +1,49 @@
-<a name="readme-top"></a>
+📖 About the Project
+🛠 Built With
+Setup
+Prerequisites
+Install
+Usage
+Run tests
+Deployment
+👥 Authors
+📝 License
+📖 [HELLOMICROVERSE]
+Describe your project in 1 or 2 sentences.
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+[HELLOMICROVERSE] is a simple html page with text hello microverse with background color.
 
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b> README </b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+🛠 Built With html and css
 
 
-<!-- PROJECT DESCRIPTION -->
+Setup
+Clone this repository to your desired folder:
 
-# 📖 [hello microverse] 
+Install
+Install this project with:
 
-> Describe your project in 1 or 2 sentences.
+Usage
+To run the project, execute the following command:
 
-**[hello microverse]** 
+Run tests
+To run tests, run the following command:
 
-## 🛠 Built With css and html
+Deployment
+You can deploy this project using:
 
+(back to top)
 
+👤 Author
 
+GitHub: @Alizaamir123
+LinkedIn: Alizaamir
 
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
+Feel free to check the issues page.
+
+(back to top)
+
+📝 License
+This project is MIT licensed.
